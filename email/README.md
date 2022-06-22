@@ -2,8 +2,8 @@
 
 
 
-this is get email info by python demo! 
-if u want to use it, 
+this is get email info by python demo! \
+if u want to use it, \
 you need to prepare some information listd below;
 
 
