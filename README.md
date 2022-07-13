@@ -13,3 +13,4 @@
 - [escape_str](./package/escape_str.py)
 - [logger](./package/logger.py)
 - [scrapy-redis](./jd_book)
+- [thread_async](./package/thread_async.py)
